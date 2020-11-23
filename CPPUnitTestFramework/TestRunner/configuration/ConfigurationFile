@@ -1,0 +1,4 @@
+# Default configuration file -Comment line
+# csv path
+file1 = /home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/test_inputs/ApiTestCase.csv
+
